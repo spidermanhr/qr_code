@@ -1,3 +1,4 @@
+QR Code Generator
 V 0.1
 
 Create QR code and print
